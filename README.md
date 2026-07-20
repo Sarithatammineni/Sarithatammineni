@@ -10,11 +10,11 @@ I'm particularly interested in software engineering, artificial intelligence, an
 
 ## 🌟 A Little About Me
 
-* 💡 I enjoy building full-stack applications using the MERN stack.
-* 🤖 I'm fascinated by Artificial Intelligence and Generative AI and love exploring how they can solve real-world challenges.
-* 🌱 Currently learning more about System Design, Cloud Computing, and scalable backend development.
-* 🤝 I enjoy collaborating with others, sharing ideas, and learning from the developer community.
-* 🎯 I'm actively looking for Software Engineering, Full Stack Development, and AI-related internship or full-time opportunities.
+*  I enjoy building full-stack applications using the MERN stack.
+*  I'm fascinated by Artificial Intelligence and Generative AI and love exploring how they can solve real-world challenges.
+*  Currently learning more about System Design, Cloud Computing, and scalable backend development.
+*  I enjoy collaborating with others, sharing ideas, and learning from the developer community.
+*  I'm actively looking for Software Engineering, Full Stack Development, and AI-related internship or full-time opportunities.
 
 ---
 
