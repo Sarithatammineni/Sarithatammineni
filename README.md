@@ -69,7 +69,7 @@ An AI-powered web application that helps organizations evaluate client proposals
 
 ## 🏡 Home Renovation Management System
 
-A full-stack application designed to simplify the home renovation process by helping users plan projects, estimate costs, and monitor progress—all from one place.
+A full-stack application designed to simplify the home renovation process by helping users plan projects, estimate costs, and monitor progress all from one place.
 
 **Key Features**
 
