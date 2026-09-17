@@ -4,7 +4,7 @@
 
 **Full Stack Developer | AI Enthusiast | Problem Solver**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tammineni-saritha/)[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://portfolio-jdv8.vercel.app/)[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamminenisarithachowdary@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tammineni-saritha/)[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://sarithatammineni-portfolio.vercel.app/)[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamminenisarithachowdary@gmail.com)
 
 </div>
 
@@ -113,7 +113,7 @@ I'm always interested in discussing new projects, learning opportunities, and co
 
 - **LinkedIn:** [tammineni-saritha](https://www.linkedin.com/in/tammineni-saritha/)
 
-- **Portfolio:** [portfolio-jdv8.vercel.app](https://portfolio-jdv8.vercel.app/)
+- **Portfolio:** [portfolio-jdv8.vercel.app](https://sarithatammineni-portfolio.vercel.app/)
 
 - **Email:** [tamminenisarithachowdary@gmail.com](mailto:tamminenisarithachowdary@gmail.com)
 
